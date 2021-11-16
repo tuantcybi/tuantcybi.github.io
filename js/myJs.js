@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-9/194982331_1479767459030834_8664744517172618296_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=8bfeb9&_nc_ohc=ZND1cuHV1BQAX9C39T8&_nc_ht=scontent.fhan2-2.fna&oh=74740c127cecd95e4bc8ff4f73215eca&oe=6139484F",
+      imageUrl: "ttps://scontent.fhan2-2.fna.fbcdn.net/v/t39.30808-6/210835584_2953826681559563_5985090729943937802_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ubk-ngTmoEoAX--BQbD&_nc_ht=scontent.fhan2-2.fna&oh=aa19590e22b936361df678c6b0ae6cc4&oe=61987023",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("https://scr.vn/wp-content/uploads/2020/07/%E1%BA%A2nh-n%E1%BB%81n-m%C3%A0u-xanh-da-tr%E1%BB%9Di.png")',
